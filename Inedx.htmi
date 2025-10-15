@@ -1,0 +1,98 @@
+ و (دكتور (
+<(html) (html lang=
+<الرئيس
+    <ميتا (charset ==<meta (شارست)"UTF-8">؛
+    <اسم ميتا=<meta name="viewport" content="width=device-width, initial-scale=1.0">؛
+       <العنوان>؛ تطبيق الاجتماعات والتواصل</العنوان>؛
+    <link rel=<"stylesheet" rel="stylesheet" href="styles.css">
+</رئيس>؛;
+<الجسم>؛;
+    <div<فئة class ="sidebar">
+        <h1>Rekapp<<>Rekapp</>؛>
+        <Nav>؛;
+            <(UL) >;
+                <li><a href=<"#"><a href="#">>رئيس</a></li></a></li>
+                <li><a href=<"#">< >؛ <=A>>Meeting Rooms<A></لي>
+                <li><a href=<"#"><a href="#">>Voice & Video</a> </li></></>ali
+                <li><a href=<"#"><a href="#">> Forum</a> </لي>؛</></>ali
+                <li><a href=<li><a href="#">الاستشارات</a></li>
+                <li><a href=<li><a href="#">الإعلانات</a></li>
+                <li><a href=<li><a href="#">غرفة المعرفة</a></li>
+             </(UL)></(UL)>؛
+        </Nav>;</Nav>؛
+    </div>
+
+    <الرئيسية>؛;
+        <President>؛;
+            (<h2>مساء الخير، (سيباستيان)!<h2>مساء الخير، Sebastian!</h2>
+    <div<div Category ="user-info">؛;
+                    <IMG   SRC =<img SRC ="user.jpg" (Alt) =" صورة المستخدم">
+                 <(Extension) > available for work </ (Extension) >
+                <Button>; logged in </زر>
+            </ (Di in) >
+        </رئيس>؛
+
+        <القسم<القسم الفئة =" غرفة الاجتماعات">
+            <(H3)> الاجتماعات</(H3)>
+    <div<(دي في) فئة ="rooms">؛;;
+    < (دي في) <<div فئة ="room">؛
+                    <IMG   src =<img SRC ="meeting1.jpg" (Alt) = اجتماع" 1">؛
+                     <(ص>؛ اجتماع الجمعة<;/>؛;;
+                </(دي في)>
+    < (دي في) <(دي في) Category ="room">؛;
+                    <IMG   SRC =<img  SRC ="meeting2.jpg"   البديل =اجتماع" 2">؛
+                    <ص>؛ فريق الاجتماع</P>؛;
+            </ (Di in) >
+    <(دي في)< (Di at) Category ="room">
+                    <IMG   SRC =<img   SRC ="user.jpg" (Alt) =" usermeet">;
+                    <ص>؛؛؛؛ اجتماع شخصي</ص>؛؛;;
+            </ (Di in) >
+            </ (Di in) >
+        </القسم>
+
+        <القسم; Category =" Videorooms">;
+            <(H3) >فيديو وamp؛ صوت < غرف;/ (H3) >
+    <(دي في)< (Di  في)   تصنيف =" video-containers">
+                (و) (و) الفيديو المباشر أو الروابط إلى المؤتمرات -->؛ يمكن وضعها؛
+                <فيديو الضوابط>؛;
+                        <المصدر SRC =<source  SRC ="sample-video.mp4"  النوع ="video/mp4">؛;
+                    المتصفح لا يدعم عرض الفيديو.
+                </Video>؛;
+            </ (Di in) >
+        </division>
+
+        <القسم<القسم فئة ="forum">؛
+            <(H3)>المنتدى</(H3)>
+    <div<(دي في) فئة="posts">
+                <مقالة>؛
+                    <(H4)>تجربة استثنائية</(H4)>
+                    <ص>؛ منشور عن التجربة والتعلم.</P>
+                </مقالة>؛
+                <مقالة>؛
+                    <(H4)>نقاش مفتوح</(H4)>
+                    <ص>؛ محادثة حول موضوع معين.</P>
+                </مقالة>
+            </(دي في)>
+        </القسم>
+
+        <القسم<القسم فئة="التشاور">
+            <(H3)>الاستشارات</(H3)>
+            <ص>؛) يمكنك طلب استشارة مباشرة من الخبراء. </ص>؛
+        </القسم>؛
+
+        <القسم<القسم فئة="ads">
+            <(H3)>الإعلانات</(H3)>
+            <ص>؛ مساحات إعلانية تظهر هنا.</P>
+        </القسم>؛
+
+        <القسم<القسم فئة="knowledge-room">
+            <(H3)>غرفة المعرفة</(H3)>
+            <(UL)>
+                <لي>؛ كتب مفيدة</Lee>
+                <لي>؛ تجارب ناجحة</Lee>
+                <لي>؛ تعليم الموارد</لي>؛
+            </(UL)>
+        </القسم>
+    </main>;;
+</body>
+                </(html)>؛
